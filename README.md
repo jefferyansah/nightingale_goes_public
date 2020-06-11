@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Project Nightingale
 
 You can use the [editor on GitHub](https://github.com/vanslerry/nightingale_goes_public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
